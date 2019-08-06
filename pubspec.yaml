@@ -63,6 +63,7 @@ flutter:
    - assets/icons/ic_heart1.svg
    - assets/icons/ic_help.svg
    - assets/icons/ic_payment.svg
+   - assets/icons/ic_motorbike.svg
 
 
    - assets/images/slider1.jpg

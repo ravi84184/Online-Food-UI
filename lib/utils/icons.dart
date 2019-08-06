@@ -16,6 +16,7 @@ class AppIcons{
   static final String icHeart1 = "assets/icons/ic_heart1.svg";
   static final String icHelp = "assets/icons/ic_help.svg";
   static final String icPayment = "assets/icons/ic_payment.svg";
+  static final String icMotorBike = "assets/icons/ic_motorbike.svg";
 
 
 
